@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.date-radio .radio-button-list{
+  display: flex;
+  gap: 22px;
+}
+
+.date-radio .form-check-label{
+  font-size: 15px !important;
+  color:#405764
+}
