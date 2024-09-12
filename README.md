@@ -19,8 +19,6 @@ Before you begin, ensure you have met the following requirements:
 - You are familiar with **React** and **Next.js** framework basics.
 - You have **Bootstrap** and **Tailwind CSS** knowledge (optional but helpful).
 
-## Prerequisites
-
 
 ## Installation
 
@@ -39,8 +37,6 @@ npm run dev
 or if you are using yarn:
 
 yarn dev
-
-
 
  npm install formik --save
 or
